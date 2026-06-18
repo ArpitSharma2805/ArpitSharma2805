@@ -218,9 +218,8 @@ Focused on developing strong foundations in Artificial Intelligence, Machine Lea
 
 ### Skills
 
-`Python` `Machine Learning` `Deep Learning` `Data Science` `Git` `SQL` `Software Engineering`
+Python` `Machine Learning` `Deep Learning` `Data Science` `Git` `SQL` `Software Engineering`
 
----
 
 # Achievements
 
@@ -278,15 +277,6 @@ Focused on developing strong foundations in Artificial Intelligence, Machine Lea
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&column=7"/>
-
-</div>
-
----
 
 # Contribution Activity
 
@@ -295,18 +285,6 @@ Focused on developing strong foundations in Artificial Intelligence, Machine Lea
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true"/>
 
 </div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
 
 # Current Focus
 
@@ -333,9 +311,7 @@ Open_To:
   - Machine Learning Roles
   - AI Research Collaborations
   - Open Source Projects
-````
 
----
 
 # Connect
 
@@ -372,4 +348,4 @@ Open_To:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4B0082,50:6A0DAD,100:8A2BE2"/>
 
 </div>
-```
+
