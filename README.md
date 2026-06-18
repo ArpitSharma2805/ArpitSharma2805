@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/Email-Contact-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/ArpitSharma2805">
 <img src="https://img.shields.io/badge/GitHub-Profile-5A189A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
