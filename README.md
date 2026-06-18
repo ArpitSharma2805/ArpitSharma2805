@@ -238,29 +238,7 @@ Focused on developing strong foundations in Artificial Intelligence, Machine Lea
 
 ---
 
-# Certifications
 
-## AWS
-
-![](https://img.shields.io/badge/AWS-Cloud_Foundations-6A0DAD?style=for-the-badge&logo=amazonaws)
-
-## Oracle
-
-![](https://img.shields.io/badge/Oracle-Database_Fundamentals-4B0082?style=for-the-badge&logo=oracle)
-
-## NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Professional_Certification-7B2CBF?style=for-the-badge)
-
-## Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking-5A189A?style=for-the-badge&logo=cisco)
-
-## Additional
-
-![](https://img.shields.io/badge/Code_With_Harry-Data_Scientist_Course-6A0DAD?style=for-the-badge)
-
----
 
 # Coding Profiles
 
