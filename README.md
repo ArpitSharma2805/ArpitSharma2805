@@ -32,12 +32,6 @@
 <img src="https://img.shields.io/badge/GitHub-Profile-5A189A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
-
-![](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=6A0DAD)
-![](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=4B0082)
-![](https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=7B2CBF)
-
 </div>
 
 ---
@@ -65,7 +59,6 @@ I enjoy transforming data into actionable insights, designing robust software ar
 - Machine Learning Internships
 - AI Research Opportunities
 - Open Source Collaborations
-- Full Stack Development Projects
 - Data Science Roles
 
 ---
@@ -171,31 +164,7 @@ Production-ready machine learning workflow focused on training, evaluating, and 
 
 </details>
 
-<details>
-<summary><b>Deep Learning Research Project</b></summary>
 
-### Project Overview
-
-Deep learning experimentation platform focused on neural network development and performance optimization.
-
-| Metric | Details |
-|----------|----------|
-| Stack | Python, PyTorch |
-| Scale | Multi-Model Experiments |
-| Performance | GPU-Optimized Training |
-| Security | Reproducible Training Pipelines |
-| Impact | Advanced AI Research |
-| Repository | [View Repository](https://github.com/yourusername/deep-learning-project) |
-
-### Engineering Highlights
-
-- Neural Network Design
-- Deep Learning Workflows
-- Model Optimization
-- Experiment Tracking
-- Research-Oriented Development
-
-</details>
 
 ---
 
