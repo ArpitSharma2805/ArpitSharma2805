@@ -81,19 +81,19 @@ I enjoy transforming data into actionable insights, designing robust software ar
 ## Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ## Backend & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgresql" />
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,postgresql" />
 </p>
 
 ## Cloud, DevOps & Tooling
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,aws" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode," />
 </p>
 
 ---
