@@ -310,7 +310,7 @@ Focused on developing strong foundations in Artificial Intelligence, Machine Lea
 
 # Current Focus
 
-```yaml
+
 Learning:
   - Advanced Machine Learning
   - Deep Learning Architectures
@@ -338,7 +338,7 @@ Open_To:
 ---
 
 # Connect
-```md
+
 <div align="center">
 
 <a href="mailto:arpit28sharma2005@gmail.com">
